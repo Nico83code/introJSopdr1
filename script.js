@@ -20,7 +20,7 @@ console.log(sum1 + sum2);
 //7.2 met strings ziet javascipt als 2 lossen objecten. die plakt hij achter elkaar
 
 let age = 36;
-console.log(typeof age);
+console.log(typeof age); //number
 
 let age1 = "36";
-console.log(typeof age1);
+console.log(typeof age1); // string
