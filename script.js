@@ -7,11 +7,11 @@ console.log(`Mijn naam is ${firstName} ${lastName}`);
 let number1 = 6;
 let number2 = 2;
 
-console.log(number1 + number2);
-console.log(number1 - number2);
-console.log(number1 * number2);
-console.log(number1 / number2);
-console.log(number1 % number2);
+console.log("sum", number1 + number2);
+console.log("subtraction", number1 - number2);
+console.log("multiplication", number1 * number2);
+console.log("division", number1 / number2);
+console.log("modulus", number1 % number2);
 //7.1 javascript ziet numbers als normale cijfers. je kan gewoon mee rekenen.
 
 let sum1 = "6";
